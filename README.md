@@ -11,7 +11,7 @@ SO THAT our own site is optimized for search engines
 
 Refactor code source: https://github.com/coding-boot-camp/urban-octo-telegram/
 
-GitPages refactored code: https://mbrown50.github.io/urban-octo-telegram/Develop/ 
+GitPages refactored code: https://mbrown50.github.io/urban-octo-telegram/
 
 ## Installation
 
