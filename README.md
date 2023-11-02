@@ -1,2 +1,1 @@
-# urban-octo-telegram
-Module 1 Challenge Accessibility Refactor
+# Code Refactor Starter Code
