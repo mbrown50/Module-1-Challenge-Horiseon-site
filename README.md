@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Module-1-Challenge-Horiseon-site
 Coding Bootcamp Module 1 Challenge
 
 ## Description
