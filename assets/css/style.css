@@ -80,7 +80,7 @@ p {
 }
 
 /* added class used for multiple elements */
-.heroType { 
+.card { 
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -121,7 +121,7 @@ p {
 */
 
 /* added class used for multiple elements */
-.heroType img { 
+.card img { 
     max-height: 200px;
 }
 
@@ -142,7 +142,7 @@ p {
 */
 
 /* added class used for multiple elements */
-.heroType h2 {
+.card h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
